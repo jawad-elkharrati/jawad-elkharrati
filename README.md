@@ -3,7 +3,9 @@
 ### 👨‍💻 First-Year Engineering Student | 📊 President, Club Data Science & Cloud Computing – ENSA Oujda  
 *Crafting smart solutions through data, code, and creativity.*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Jawad+Elkharrati;President+of+DSCC+ENSA+Oujda;Let%27s+build+with+data+%26+AI)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0fbcf9&height=200&section=header&text=Jawad%20Elkharrati&fontSize=40&fontColor=ffffff&desc=President%20of%20Club%20DSCC%20%E2%80%93%20ENSA%20Oujda&descSize=20&descAlign=bottom">
+</p>
 
 ---
 
