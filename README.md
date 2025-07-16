@@ -4,7 +4,7 @@
 *Crafting smart solutions through data, code, and creativity.*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00909c&height=300&section=header&text=Jawad%20Elkharrati&fontSize=36&fontColor=ffffff&desc=%20ENSA%20Oujda&descSize=20&descAlign=center&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00909c&height=300&section=header&text=Jawad%20Elkharrati&fontSize=36&fontColor=ffffff&desc=%20ENSA%20Oujda&descSize=10&descAlign=center&descAlignY=70"/>
 </p>
 
 
