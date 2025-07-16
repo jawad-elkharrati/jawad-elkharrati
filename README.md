@@ -3,9 +3,9 @@
 ### 👨‍💻 First-Year Engineering Student | 📊 President, Club Data Science & Cloud Computing – ENSA Oujda  
 *Crafting smart solutions through data, code, and creativity.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻%20Jawad%20Elkharrati-President%20of%20DSCC%20ENSA%20Oujda-00909c?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA" />
-</p>
+<h1 align="center">Jawad Elkharrati</h1>
+<h3 align="center">President of Club DSCC – ENSA Oujda</h3>
+<p align="center"><i>Let's build with Data, Cloud & AI 🤝</i></p>
 
 
 ---
