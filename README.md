@@ -4,7 +4,7 @@
 *Crafting smart solutions through data, code, and creativity.*
 
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?name=Jawad%20Elkharrati&subtitle=President%20of%20Club%20DSCC%20-%20ENSA%20Oujda&background=00909c&fontColor=ffffff&fontSize=26&tagline=Let's%20build%20with%20Data%20and%20AI."/>
+  <img src="https://img.shields.io/badge/👨‍💻%20Jawad%20Elkharrati-President%20of%20DSCC%20ENSA%20Oujda-00909c?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA" />
 </p>
 
 
