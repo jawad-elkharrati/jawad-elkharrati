@@ -1,67 +1,71 @@
-# Hi there, I'm Jawad Elkharrati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" /> 👋
+# Hi there, I'm Jawad Elkharrati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-Welcome to my GitHub profile!
+### 👨‍💻 First-Year Engineering Student | 📊 President, Club Data Science & Cloud Computing – ENSA Oujda  
+*Crafting smart solutions through data, code, and creativity.*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BCD4&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Jawad+Elkharrati;President+of+DSCC+ENSA+Oujda;Let%27s+build+with+data+%26+AI)
 
 ---
 
 ## 🚀 About Me
 
-I’m a first-year engineering student specializing in **Data Science & Cloud Computing** at ENSA Oujda. I’m passionate about emerging technologies, artificial intelligence, and crafting innovative digital solutions.
+I'm a passionate engineering student at **ENSA Oujda**, specializing in **Data Science & Cloud Computing**.  
+As the **President of the Club DSCC**, I lead diverse initiatives merging technology, innovation, and community building.
 
-- 📚 **Currently honing skills in:**  
-  - <img src="https://img.icons8.com/color/24/000000/python.png"/> **Python**  
-  - <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> **Java**  
-  - <img src="https://img.icons8.com/color/24/000000/php.png"/> **PHP**  
-  - <img src="https://img.icons8.com/color/24/000000/html-5.png"/> **HTML/CSS**  
-  - <img src="https://img.icons8.com/color/24/000000/mysql-logo.png"/> **MySQL**  
-  - <img src="https://img.icons8.com/color/24/000000/tensorflow.png"/> **Machine Learning**  
-  - <img src="https://img.icons8.com/color/24/000000/opencv.png"/> **Computer Vision**  
-  - <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png"/> **NLP**  
-- 💼 **Experienced in:** Software development, project management, and content creation  
-- 🌍 **Languages:** Arabic (native), French (fluent), English (fluent), Spanish (beginner)  
-- 🎨 **Interests:** Graphic design, content creation, fitness, and athletics  
+### 🔧 Currently Exploring:
+- 🐍 Python, ☕ Java, 🐘 PHP  
+- 🌐 HTML/CSS, 🛢 MySQL  
+- 🤖 Machine Learning, 📸 OpenCV  
+- 🧠 NLP & Generative AI  
 
----
-
-## 🛠️ My Projects & Experience Highlights
-
-- <img src="https://img.icons8.com/color/24/000000/c-programming.png"/> **Traffic Management System (C)**  
-  Real-time congestion detection and vehicle flow optimization  
-- <img src="https://img.icons8.com/color/24/000000/opencv.png"/> **Vehicle Detection (Computer Vision)**  
-  Real-time object recognition on road videos  
-- <img src="https://img.icons8.com/color/24/000000/hotel.png"/> **Hotel Management App**  
-  Full client and reservation management interface linked to MySQL  
-- <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png"/> **Moroccan Constitution Q&A System (AI/NLP)**  
-  Generative AI chatbot querying legal articles  
+### 💡 I'm also into:
+- Software development, team/project management, and digital content creation  
+- Languages: 🇲🇦 Arabic (native), 🇫🇷 French (fluent), 🇬🇧 English (fluent), 🇪🇸 Spanish (beginner)  
+- Hobbies: 🎨 Graphic design, 🏃‍♂️ Athletics, 👥 Community leadership
 
 ---
 
-## 🎯 Roles & Leadership
+## 🧠 Projects & Highlights
 
-- <img src="https://img.icons8.com/color/24/000000/event.png"/> **Event Organization & Management**  
-  Digitalk Entrepreneurship Event  
-- <img src="https://img.icons8.com/color/24/000000/handshake.png"/> **Sponsorship Lead**  
-  ENSAO Reporters (sponsorship negotiation & content event organization)  
-- <img src="https://img.icons8.com/color/24/000000/paint-brush.png"/> **Design Lead**  
-  ADE ENSAO (visual identity & graphic support for student events)  
+| Project | Description |
+|--------|-------------|
+| 🚦 **Traffic Management in C** | Real-time vehicle routing & congestion alerts |
+| 🛣 **OpenCV Vehicle Detection** | Object tracking from road video feeds |
+| 🏨 **Hotel Manager (PHP + MySQL)** | Reservations, clients, and full admin panel |
+| ⚖️ **AI Q&A – Moroccan Constitution** | Legal chatbot powered by NLP |
+| 🖥️ **[ClubDSCC.com](https://www.clubdscc.com)** | Club website, events, and sponsor sections (Lead Dev & President) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawad-elkharrati&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-elkharrati&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jawad-elkharrati&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-elkharrati&layout=compact&theme=radical" height="165">
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## 🏅 Badges
 
-- <img src="https://img.icons8.com/color/24/000000/gmail.png"/> **Email:** [jawadel710@gmail.com](mailto:jawadel710@gmail.com)  
-- <img src="https://img.icons8.com/color/24/000000/phone.png"/> **Phone:** +212700240016  
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> **LinkedIn:** [linkedin.com/in/jawad-elkharrati](https://www.linkedin.com/in/jawad-elkharrati/)  
+![President of DSCC ENSA Oujda](https://img.shields.io/badge/Club%20DSCC-President-00b894?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=...)  
+![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=3776AB)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-orange?style=flat&logo=tensorflow)  
+![AI Enthusiast](https://img.shields.io/badge/AI-NLP%20%26%20Vision-0a9396?style=flat&logo=OpenAI)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [jawadel710@gmail.com](mailto:jawadel710@gmail.com)  
+- 📞 **Phone:** +212 700 240 016  
+- 💼 **LinkedIn:** [linkedin.com/in/jawad-elkharrati](https://www.linkedin.com/in/jawad-elkharrati/)  
+- 🌐 **Website:** [www.clubdscc.com](https://www.clubdscc.com)
 
 ---
 
-Thank you for stopping by! Feel free to explore my repositories and reach out—I’d love to connect!
+> 🚀 *Thank you for stopping by!*  
+> Feel free to explore my repos, contribute, or collaborate.  
+> Let’s build something impactful — with **data**, **code**, and **curiosity**.
 
----
+![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=00b894&height=100&section=footer)
