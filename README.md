@@ -1,74 +1,101 @@
-# Hi there, I'm Jawad Elkharrati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+<!-- Profile README for GitHub: jawad-elkharrati -->
 
-### 👨‍💻 First-Year Engineering Student | 📊 President, Club Data Science & Cloud Computing – ENSA Oujda  
-*Crafting smart solutions through data, code, and creativity.*
+<h1 align="center">Hi there, I'm Jawad Elkharrati! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=jawad-elkharrati&style=for-the-badge&color=0ea5e9"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=jawad-elkharrati&style=for-the-badge&color=0ea5e9"/></a>
+  <img alt="Followers" src="https://img.shields.io/github/followers/jawad-elkharrati?style=for-the-badge&color=22c55e"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/jawad-elkharrati?style=for-the-badge&color=f59e0b"/>
+</p>
 
-<h1 align="center">Jawad Elkharrati</h1>
-<h3 align="center">President of Club DSCC – ENSA Oujda</h3>
-<p align="center"><i>Let's build with Data, Cloud & AI 🤝</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=20&pause=1200&center=true&vCenter=true&width=800&lines=First-Year+Engineering+Student+%7C+President+of+Club+DSCC+(ENSA+Oujda);Data+Science+%E2%80%A2+Cloud+Computing+%E2%80%A2+AI%2FNLP+%E2%80%A2+OpenCV;Building+useful+things+with+data%2C+code+%26+curiosity" alt="Typing SVG"/>
+</p>
 
+<p align="center">
+  <i>Let's build with Data, Cloud & AI 🤝</i>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate engineering student at **ENSA Oujda**, specializing in **Data Science & Cloud Computing**.  
-As the **President of the Club DSCC**, I lead diverse initiatives merging technology, innovation, and community building.
+* 🎓 Engineering student at **ENSA Oujda** — specialization in **Data Science & Cloud Computing**.
+* 👑 **President of DSCC Club** (community, events, mentorship, partnerships).
+* 🧠 Interests: **Machine Learning**, **NLP & Generative AI**, **Computer Vision (OpenCV)**.
+* 🛠️ Stack I enjoy: **Python**, **Java**, **PHP**, **HTML/CSS**, **MySQL**.
+* 🌍 Languages: **Arabic** (native), **French** (fluent), **English** (fluent), **Spanish** (beginner).
+* 🎨 I also love **graphic design**, **content creation**, and **leading teams**.
 
-### 🔧 Currently Exploring:
-- 🐍 Python, ☕ Java, 🐘 PHP  
-- 🌐 HTML/CSS, 🛢 MySQL  
-- 🤖 Machine Learning, 📸 OpenCV  
-- 🧠 NLP & Generative AI  
-
-### 💡 I'm also into:
-- Software development, team/project management, and digital content creation  
-- Languages: 🇲🇦 Arabic (native), 🇫🇷 French (fluent), 🇬🇧 English (fluent), 🇪🇸 Spanish (beginner)  
-- Hobbies: 🎨 Graphic design, 🏃‍♂️ Athletics, 👥 Community leadership
+<div align="right">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="coding animation"/>
+</div>
 
 ---
 
-## 🧠 Projects & Highlights
+## 🧰 Tech Toolbox
 
-| Project | Description |
-|--------|-------------|
-| 🚦 **Traffic Management in C** | Real-time vehicle routing & congestion alerts |
-| 🛣 **OpenCV Vehicle Detection** | Object tracking from road video feeds |
-| 🏨 **Hotel Manager (PHP + MySQL)** | Reservations, clients, and full admin panel |
-| ⚖️ **AI Q&A – Moroccan Constitution** | Legal chatbot powered by NLP |
-| 🖥️ **[ClubDSCC.com](https://www.clubdscc.com)** | Club website, events, and sponsor sections (Lead Dev & President) |
+**Languages** <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+
+**Data • AI** <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black"/>
+
+**Web • Cloud • Tools** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-1E293B?logo=ai&logoColor=white"/>
+
+> *Always learning, always shipping.*
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Featured Projects
+
+| Project                                                                                  | Description                                                                                        |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 🚦 **[Traffic Management in C](https://github.com/jawad-elkharrati/Trafic_management-)** | Queue-based traffic simulation with priorities (Emergency/Bus/Car/Bike), traffic lights & logging. |
+| 🛣 **Vehicle Speed Detection (OpenCV)**                                                  | Detect, track & measure vehicle speed from fixed-camera video. CLI app + CSV export.               |
+| 🏨 **Hotel Manager (Java MVC)**                                                          | Swing UI + DAO/Factory/Decorator patterns for guests, rooms, reservations.                         |
+| ⚖️ **Moroccan Constitution Q\&A (RAG)**                                                  | Legal chatbot using Sentence-Transformers, FAISS & FLAN-T5 with citations.                         |
+| 🌐 **ClubDSCC.com**                                                                      | Club website (events, sponsors, mentorship). Lead Dev & President.                                 |
+
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawad-elkharrati&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-elkharrati&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=jawad-elkharrati&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-elkharrati&layout=compact&theme=radical" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jawad-elkharrati&theme=radical&hide_border=false" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jawad-elkharrati&theme=algolia&no-frame=true&column=6"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-elkharrati&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 ---
 
-## 🏅 Badges
+## 🤝 Connect with Me
 
-![President of DSCC ENSA Oujda](https://img.shields.io/badge/Club%20DSCC-President-00b894?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=...)  
-![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=3776AB)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-orange?style=flat&logo=tensorflow)  
-![AI Enthusiast](https://img.shields.io/badge/AI-NLP%20%26%20Vision-0a9396?style=flat&logo=OpenAI)
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** [jawadel710@gmail.com](mailto:jawadel710@gmail.com)  
-- 📞 **Phone:** +212 700 240 016  
-- 💼 **LinkedIn:** [linkedin.com/in/jawad-elkharrati](https://www.linkedin.com/in/jawad-elkharrati/)  
-- 🌐 **Website:** [www.clubdscc.com](https://www.clubdscc.com)
+<p>
+  <a href="mailto:jawadel710@gmail.com"><img src="https://img.shields.io/badge/Email-jawadel710%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jawad-elkharrati/"><img src="https://img.shields.io/badge/LinkedIn-Jawad%20Elkharrati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.clubdscc.com"><img src="https://img.shields.io/badge/Website-clubdscc.com-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Phone-%2B212%20700%20240%20016-10b981?style=for-the-badge"/>
+</p>
 
 ---
 
-> 🚀 *Thank you for stopping by!*  
-> Feel free to explore my repos, contribute, or collaborate.  
-> Let’s build something impactful — with **data**, **code**, and **curiosity**.
+## ✨ Now
 
-![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=00b894&height=100&section=footer)
+* 🔭 Building: AI Q\&A systems, OpenCV pipelines, student community tooling.
+* 🌱 Learning: Advanced RAG, scalable APIs, systems design.
+* 💬 Ask me about: DSCC leadership, event organization, sponsorship strategy, and ML/AI basics.
+
+---
+
+> *“Let’s build something impactful — with data, code, and curiosity.”*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=100&section=footer"/>
+</p>
