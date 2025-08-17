@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=20&pause=1200&center=true&vCenter=true&width=800&lines=First-Year+Engineering+Student+%7C+President+of+Club+DSCC+(ENSA+Oujda);Data+Science+%E2%80%A2+Cloud+Computing+%E2%80%A2+AI%2FNLP+%E2%80%A2+OpenCV;Building+useful+things+with+data%2C+code+%26+curiosity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=20&duration=3000&pause=800&center=true&vCenter=true&width=1000&repeat=false&lines=First%E2%80%91Year+Engineering+Student+%7C+President+of+Club+DSCC+(ENSA+Oujda).;Data+Science+%E2%80%A2+Cloud+Computing+%E2%80%A2+AI%2FNLP+%26+OpenCV." alt="First‑Year Engineering Student | President of Club DSCC (ENSA Oujda). Data • Cloud • AI/NLP • OpenCV."/>
 </p>
+<!-- Fallback if the typing banner fails to load -->
+<div align="center"><sub><b>First‑Year Engineering Student | President of Club DSCC (ENSA Oujda).</b> Data • Cloud • AI/NLP • OpenCV.</sub></div>
 
 <p align="center">
   <i>Let's build with Data, Cloud & AI 🤝</i>
@@ -53,7 +55,6 @@
 | 🏨 **Hotel Manager (Java MVC)**                                                          | Swing UI + DAO/Factory/Decorator patterns for guests, rooms, reservations.                         |
 | ⚖️ **Moroccan Constitution Q\&A (RAG)**                                                  | Legal chatbot using Sentence-Transformers, FAISS & FLAN-T5 with citations.                         |
 | 🌐 **ClubDSCC.com**                                                                      | Club website (events, sponsors, mentorship). Lead Dev & President.                                 |
-
 
 ---
 
