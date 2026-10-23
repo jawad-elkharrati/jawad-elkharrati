@@ -46,5 +46,3 @@ I build projects around machine learning, retrieval-augmented generation, AI-ass
 **Looking for an engineering internship in Data / AI / ML.** [Let's connect on LinkedIn](https://www.linkedin.com/in/jawad-el-kharrati/).
 
 </details>
-
-<sub>Terminal-style presentation inspired by [Andrew6rant](https://github.com/Andrew6rant/Andrew6rant). Built around my own projects and GitHub data.</sub>
