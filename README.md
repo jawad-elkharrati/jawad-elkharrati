@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg?v=portrait">
-  <img alt="Jawad EL KHARRATI — fourth-year engineering student at Polytech Nancy and ENSA Oujda. Data science, applied AI and cloud engineering. Seeking a Data / AI / ML internship." src="./assets/profile-light.svg?v=portrait" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawad-elkharrati/jawad-elkharrati/f37d41a1322976398a52ceebbc07e017691ba982/assets/profile-dark.svg">
+  <img alt="Jawad EL KHARRATI — fourth-year engineering student at Polytech Nancy and ENSA Oujda. Data science, applied AI and cloud engineering. Seeking a Data / AI / ML internship." src="https://raw.githubusercontent.com/jawad-elkharrati/jawad-elkharrati/f37d41a1322976398a52ceebbc07e017691ba982/assets/profile-light.svg" width="1000">
 </picture>
 
 <p align="center">
